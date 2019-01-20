@@ -23,6 +23,24 @@
 				"chromas": true
 			},
 			{
+				"id": "266004",
+				"num": 4,
+				"name": "Mecha Aatrox - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "266005",
+				"num": 5,
+				"name": "Mecha Aatrox - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "266006",
+				"num": 6,
+				"name": "Mecha Aatrox - chroma 3",
+				"chromas": false
+			},
+			{
 				"id": "266003",
 				"num": 3,
 				"name": "Sea Hunter Aatrox",
@@ -64,6 +82,42 @@
 				"num": 4,
 				"name": "Popstar Ahri",
 				"chromas": true
+			},
+			{
+				"id": "103008",
+				"num": 8,
+				"name": "Popstar Ahri - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "103009",
+				"num": 9,
+				"name": "Popstar Ahri - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "103010",
+				"num": 10,
+				"name": "Popstar Ahri - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "103011",
+				"num": 11,
+				"name": "Popstar Ahri - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "103012",
+				"num": 12,
+				"name": "Popstar Ahri - chroma 5",
+				"chromas": false
+			},
+			{
+				"id": "103013",
+				"num": 13,
+				"name": "Popstar Ahri - chroma 6",
+				"chromas": false
 			},
 			{
 				"id": "103005",
@@ -149,6 +203,24 @@
 				"num": 7,
 				"name": "Headhunter Akali",
 				"chromas": true
+			},
+			{
+				"id": "84010",
+				"num": 10,
+				"name": "Headhunter Akali - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "84011",
+				"num": 11,
+				"name": "Headhunter Akali - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "84012",
+				"num": 12,
+				"name": "Headhunter Akali - chroma 3",
+				"chromas": false
 			},
 			{
 				"id": "84008",
@@ -242,6 +314,54 @@
 				"chromas": true
 			},
 			{
+				"id": "12011",
+				"num": 11,
+				"name": "Moo Cow Alistar - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "12012",
+				"num": 12,
+				"name": "Moo Cow Alistar - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "12013",
+				"num": 13,
+				"name": "Moo Cow Alistar - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "12014",
+				"num": 14,
+				"name": "Moo Cow Alistar - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "12015",
+				"num": 15,
+				"name": "Moo Cow Alistar - chroma 5",
+				"chromas": false
+			},
+			{
+				"id": "12016",
+				"num": 16,
+				"name": "Moo Cow Alistar - chroma 6",
+				"chromas": false
+			},
+			{
+				"id": "12017",
+				"num": 17,
+				"name": "Moo Cow Alistar - chroma 7",
+				"chromas": false
+			},
+			{
+				"id": "12018",
+				"num": 18,
+				"name": "Moo Cow Alistar - chroma 8",
+				"chromas": false
+			},
+			{
 				"id": "12019",
 				"num": 19,
 				"name": "Hextech Alistar",
@@ -309,10 +429,88 @@
 				"chromas": true
 			},
 			{
+				"id": "32009",
+				"num": 9,
+				"name": "Surprise Party Amumu - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "32010",
+				"num": 10,
+				"name": "Surprise Party Amumu - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "32011",
+				"num": 11,
+				"name": "Surprise Party Amumu - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "32012",
+				"num": 12,
+				"name": "Surprise Party Amumu - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "32013",
+				"num": 13,
+				"name": "Surprise Party Amumu - chroma 5",
+				"chromas": false
+			},
+			{
+				"id": "32014",
+				"num": 14,
+				"name": "Surprise Party Amumu - chroma 6",
+				"chromas": false
+			},
+			{
+				"id": "32015",
+				"num": 15,
+				"name": "Surprise Party Amumu - chroma 7",
+				"chromas": false
+			},
+			{
+				"id": "32016",
+				"num": 16,
+				"name": "Surprise Party Amumu - chroma 8",
+				"chromas": false
+			},
+			{
 				"id": "32017",
 				"num": 17,
 				"name": "Infernal Amumu",
 				"chromas": true
+			},
+			{
+				"id": "32018",
+				"num": 18,
+				"name": "Infernal Amumu - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "32019",
+				"num": 19,
+				"name": "Infernal Amumu - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "32020",
+				"num": 20,
+				"name": "Infernal Amumu - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "32021",
+				"num": 21,
+				"name": "Infernal Amumu - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "32022",
+				"num": 22,
+				"name": "Infernal Amumu - chroma 5",
+				"chromas": false
 			}
 		]
 	},
@@ -516,11 +714,47 @@
 				"chromas": true
 			},
 			{
+				"id": "22010",
+				"num": 10,
+				"name": "Championship Ashe - chroma 1",
+				"chromas": false
+			},
+			{
 				"id": "22011",
 				"num": 11,
 				"name": "Cosmic Queen Ashe",
 				"chromas": true
-			}
+			},
+			{
+				"id": "22012",
+				"num": 12,
+				"name": "Cosmic Queen Ashe - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "22013",
+				"num": 13,
+				"name": "Cosmic Queen Ashe - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "22014",
+				"num": 14,
+				"name": "Cosmic Queen Ashe - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "22015",
+				"num": 15,
+				"name": "Cosmic Queen Ashe - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "22016",
+				"num": 16,
+				"name": "Cosmic Queen Ashe - chroma 5",
+				"chromas": false
+			},
 		]
 	},
 	{
@@ -545,7 +779,49 @@
 				"num": 2,
 				"name": "Mecha Aurelion Sol",
 				"chromas": true
-			}
+			},
+			{
+				"id": "136004",
+				"num": 4,
+				"name": "Mecha Aurelion Sol - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "136005",
+				"num": 5,
+				"name": "Mecha Aurelion Sol - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "136006",
+				"num": 6,
+				"name": "Mecha Aurelion Sol - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "136007",
+				"num": 7,
+				"name": "Mecha Aurelion Sol - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "136008",
+				"num": 8,
+				"name": "Mecha Aurelion Sol - chroma 5",
+				"chromas": false
+			},
+			{
+				"id": "136009",
+				"num": 9,
+				"name": "Mecha Aurelion Sol - chroma 6",
+				"chromas": false
+			},
+			{
+				"id": "136010",
+				"num": 10,
+				"name": "Mecha Aurelion Sol - chroma 7",
+				"chromas": false
+			},
 		]
 	},
 	{
@@ -3515,9 +3791,156 @@
 				"chromas": true
 			},
 			{
+				"id": "99009",
+				"num": 9,
+				"name": "Lunar Empress Lux - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "99010",
+				"num": 10,
+				"name": "Lunar Empress Lux - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "99011",
+				"num": 11,
+				"name": "Lunar Empress Lux - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "99012",
+				"num": 12,
+				"name": "Lunar Empress Lux - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "99013",
+				"num": 13,
+				"name": "Lunar Empress Lux - chroma 5",
+				"chromas": false
+			},
+			{
 				"id": "99014",
 				"num": 14,
 				"name": "Pajama Guardian Lux",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxAir",
+		"key": "9901",
+		"name": "LuxAir",
+		"skins": [
+			{
+				"id": "9901000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxDark",
+		"key": "9902",
+		"name": "LuxDark",
+		"skins": [
+			{
+				"id": "9902000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxFire",
+		"key": "9903",
+		"name": "LuxFire",
+		"skins": [
+			{
+				"id": "9903000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxIce",
+		"key": "9904",
+		"name": "LuxIce",
+		"skins": [
+			{
+				"id": "9904000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxMagma",
+		"key": "9905",
+		"name": "LuxMagma",
+		"skins": [
+			{
+				"id": "9905000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxMystic",
+		"key": "9906",
+		"name": "LuxMystic",
+		"skins": [
+			{
+				"id": "9906000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxNature",
+		"key": "9907",
+		"name": "LuxNature",
+		"skins": [
+			{
+				"id": "9907000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxStorm",
+		"key": "9908",
+		"name": "LuxStorm",
+		"skins": [
+			{
+				"id": "9908000",
+				"num": 7,
+				"name": "default",
+				"chromas": false
+			}
+		]
+	},
+	{
+		"id": "LuxWater",
+		"key": "9909",
+		"name": "LuxWater",
+		"skins": [
+			{
+				"id": "9909000",
+				"num": 7,
+				"name": "default",
 				"chromas": false
 			}
 		]
@@ -4699,7 +5122,7 @@
 			{
 				"id": "33000",
 				"num": 0,
-				"name": "default",
+				"name": "Base",
 				"chromas": false
 			},
 			{
@@ -4749,8 +5172,51 @@
 				"num": 8,
 				"name": "Sweeper Rammus",
 				"chromas": true
+			},
+			{
+				"id": "33009",
+				"num": 9,
+				"name": "Sweeper Rammus - chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "33010",
+				"num": 10,
+				"name": "Sweeper Rammus - chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "33011",
+				"num": 11,
+				"name": "Sweeper Rammus - chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "33012",
+				"num": 12,
+				"name": "Sweeper Rammus - chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "33013",
+				"num": 13,
+				"name": "Sweeper Rammus - chroma 5",
+				"chromas": false
+			},
+			{
+				"id": "33014",
+				"num": 14,
+				"name": "Sweeper Rammus - chroma 6",
+				"chromas": false
+			},
+			{
+				"id": "33015",
+				"num": 15,
+				"name": "Sweeper Rammus - chroma 7",
+				"chromas": false
 			}
 		]
+	
 	},
 	{
 		"id": "RekSai",
@@ -5711,6 +6177,62 @@
 				"chromas": false
 			}
 		]
+	},
+	{
+		"id": "Sylas",
+		"key": "517",
+		"name": "Sylas",
+		"skins": [
+			{
+				"id": "517000",
+				"num": 0,
+				"name": "Base",
+				"chromas": false
+			},
+			{
+				"id": "517001",
+				"num": 1,
+				"name": "Lunar Wraith Sylas",
+				"chromas": true
+			},
+			{
+				"id": "517002",
+				"num": 2,
+				"name": "Lunar Wraith Sylas  -  chroma 1",
+				"chromas": false
+			},
+			{
+				"id": "517003",
+				"num": 3,
+				"name": "Lunar Wraith Sylas  -  chroma 2",
+				"chromas": false
+			},
+			{
+				"id": "517004",
+				"num": 4,
+				"name": "Lunar Wraith Sylas  -  chroma 3",
+				"chromas": false
+			},
+			{
+				"id": "517005",
+				"num": 5,
+				"name": "Lunar Wraith Sylas  -  chroma 4",
+				"chromas": false
+			},
+			{
+				"id": "517006",
+				"num": 6,
+				"name": "Lunar Wraith Sylas  -  chroma 5",
+				"chromas": false
+			},
+			{
+				"id": "517007",
+				"num": 7,
+				"name": "Lunar Wraith Sylas  -  chroma 6",
+				"chromas": false
+			}
+		]
+	
 	},
 	{
 		"id": "TahmKench",
